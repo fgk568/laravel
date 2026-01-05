@@ -1,0 +1,14 @@
+# Laravel
+laravel/vendor/
+laravel/node_modules/
+laravel/.env
+laravel/.env.*
+laravel/storage/logs/
+laravel/bootstrap/cache/
+
+# Docker
+.env
+
+# OS
+.DS_Store
+
